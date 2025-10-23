@@ -7,3 +7,5 @@
 **Exam Code:** *CLF-C02*
 
 **Practice Exam Questions:** https://skillbuilder.aws/search?searchText=aws%20-certified-cloud-practitioner-official-practice-question-set-clf-c02-english&showRedirectNotFoundBanner=true
+
+**Course Content:** https://courses.datacumulus.com/downloads/certified-cloud-practitioner-zb2/
