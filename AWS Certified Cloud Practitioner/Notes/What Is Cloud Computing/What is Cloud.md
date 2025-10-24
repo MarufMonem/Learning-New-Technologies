@@ -34,12 +34,12 @@ There are different types of clouds:
 
 
 ## Six Advantages of Cloud Computing
-1. Trade Capital Expenses for Operational Expenses: You do not own hardware but pay on-demand, reducing total cost of ownership (TCO) and operational expenses.
-2. Massive Economies of Scale: Prices decrease over time as providers like AWS become more efficient due to large-scale usage.
-3. Stop Guessing Capacity: Automatic scaling based on actual usage eliminates the need to plan and buy servers in advance.
-4. Increased Speed and Agility: You can create and operate resources immediately without blockers.
-5. Reduced Data Center Maintenance Costs: No need to spend money running and maintaining data centers.
-6. Global Infrastructure: Small teams can create global applications quickly by leveraging worldwide cloud infrastructure.
+1. **Trade Capital Expenses for Operational Expenses:** You do not own hardware but pay on-demand, reducing total cost of ownership (TCO) and operational expenses.
+2. **Massive Economies of Scale:** Prices decrease over time as providers like AWS become more efficient due to large-scale usage.
+3. **Stop Guessing Capacity:** Automatic scaling based on actual usage eliminates the need to plan and buy servers in advance.
+4. **Increased Speed and Agility:** You can create and operate resources immediately without blockers.
+5. **Reduced Data Center Maintenance Costs:** No need to spend money running and maintaining data centers.
+6. **Global Infrastructure:** Small teams can create global applications quickly by leveraging worldwide cloud infrastructure.
 
 ## Problems Solved by Cloud Computing
 
